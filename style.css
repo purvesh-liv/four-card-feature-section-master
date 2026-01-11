@@ -15,10 +15,11 @@ main {
 
 .primary-grey{
     color:   hsl(212, 6%, 44%);
-    font-weight: 200;
+    font-weight: 300;
 }
 p{
     color: hsl(212, 6%, 44%);
+    line-height: 1.6
 }
 header{
     text-align: center;
@@ -30,6 +31,7 @@ h2{
 }
 h3{
     color: hsl(234, 12%, 34%);
+    font-weight: 600;
 }
 .main-p{
     margin: 1.5rem;
